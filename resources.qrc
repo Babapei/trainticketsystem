@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>封面.png</file>
+        <file>back.jpg</file>
+        <file>back2.jpg</file>
+        <file>back3.jpg</file>
+        <file>insert1.jpg</file>
+        <file>insert2.jpg</file>
+        <file>insert3.jpg</file>
+    </qresource>
+</RCC>

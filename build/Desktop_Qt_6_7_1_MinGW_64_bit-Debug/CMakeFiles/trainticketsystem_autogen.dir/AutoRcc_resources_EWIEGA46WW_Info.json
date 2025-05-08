@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/trainticketsystem_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem",
+	"CMAKE_SOURCE_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/trainticketsystem_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Users/30409/Desktop/qt/trainticketsystem/back2.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/insert3.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/back.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/insert2.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/insert1.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/back3.jpg",
+		"D:/Users/30409/Desktop/qt/trainticketsystem/\u5c01\u9762.png"
+	],
+	"LOCK_FILE" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/trainticketsystem_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Users/30409/Desktop/qt/trainticketsystem/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/trainticketsystem_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Users/30409/Desktop/qt/trainticketsystem/resources.qrc",
+	"VERBOSITY" : 0
+}
